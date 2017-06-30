@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
-        String branch = "develop hi";
+        String branch = "this is master branch";
     }
 }
